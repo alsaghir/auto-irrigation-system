@@ -11,7 +11,7 @@ The Watering Service is a RESTful API that provides endpoints for managing plots
 Clone the repository:
 
 ```sh
-git clone https://github.com/<your-username>/watering-service.git
+git clone https://github.com/alsaghir/auto-irrigation-system.git
 ```
 
 Build the project:
@@ -24,7 +24,7 @@ mvn clean package
 Run the service:
 
 ```sh
-java -jar target/watering-service-0.0.1-SNAPSHOT.jar
+java -jar target/auto-irrigation-system-0.0.1-SNAPSHOT.jar
 ```
 
 Use the service:
